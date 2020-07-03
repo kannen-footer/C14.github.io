@@ -13,3 +13,8 @@
 .footer-list {
   float: right;
 }
+
+.footer-list li{
+  padding-bottom:20px;
+}
+
